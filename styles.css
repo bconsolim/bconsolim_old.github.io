@@ -1,0 +1,64 @@
+body {
+    background-color: rgba(167, 179, 250, 0.158);
+    background-image: url(water.bmp);
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+}
+
+}
+#h22 {
+    color: #105475;
+    text-align: center;
+    font-size: 40px;
+
+}
+#li1 {
+    color: orange;
+    /* whatever comes last overrules */
+}
+#li1 {
+    color: blue;
+}
+#li2 {
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}   
+.nomes {
+    color: orange
+    /* id's overrule classes */
+    font-size: 20px;
+}  
+#ga {
+    height: 300px;
+    box-shadow: 10px 5px 5px black;
+}   
+#ga2 {
+    height: 200px;
+    opacity: 1;
+}
+#feras {
+    color: black
+}
+#essa {
+    color: black
+}
+p {
+    font-size: 20px;
+}
+#joia {
+    height: 20px;
+}
+.jumbotron {
+    background-image: url(arco.JPG) ;
+    background-repeat: repeat;
+}
+
+h1 {
+    font-family: "Crafty Girls", cursive;
+}
+/* cursive is the alternative - in case google is down, it goes to the next one. You can have as many as you want separated with comas */
+
+#bolarosa {
+    color: palevioletred
+}
